@@ -2,6 +2,46 @@
   "comments": [
     {
       "key": {
+        "uuid": "3a6ff13c_e4760f06",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1007751
+      },
+      "writtenOn": "2016-03-13T18:13:15Z",
+      "side": 1,
+      "message": "хороший проект",
+      "revId": "3d875b668c071ff5e63e10fda65c048c6baf850c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a6ff13c_c422f300",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1007751
+      },
+      "writtenOn": "2016-03-13T18:13:15Z",
+      "side": 1,
+      "message": "саня, привет",
+      "range": {
+        "startLine": 5,
+        "startChar": 12,
+        "endLine": 5,
+        "endChar": 22
+      },
+      "revId": "3d875b668c071ff5e63e10fda65c048c6baf850c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_3c067221",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
